@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+</body>
+<br>
+<a href="https://docs.uipath.com"><img src="cid:old.png" alt="old" width="110" height="110"></a>
+<a href="https://docs.uipath.com"><img src="C:\Users\mohana.s\OneDrive - UiPath\UiPath Projects\UiPath\EmbedImageinMail\new.png" alt="new" width="110" height="110"></a>
+<br><br>
+<p style="font-size:14px">For any assistance, please contact UiPath support at uipath.support.com <br>
+<br><br>
+Assuring you of our best services at all times.<br><br>
+ With Regards,<br>
+Mohana <br>
+</P>
+</body></html>
+ 
